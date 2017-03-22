@@ -17,10 +17,10 @@ Vous allez mettre en pratique une bonne partie de ce que vous avez appris dans l
     fichiers.
 
 
-Voici un diagramme de classes vous représentant l’exercice :
+Voici un diagramme de classes vous représentant l’exercice
 
 Diagramme UML de l'exercice
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/P2PA-Voiture.png?raw=true "Optional Title")
 
 Vous l’aurez compris, vous allez devoir créer un garage, mais vous allez devoir aussi le sauvegarder dans un fichier… Le but étant qu’à chaque fois que vous ajoutez un nouveau véhicule dans votre garage, celui-ci se sauvegarde automatiquement dans un fichier. Il faudra aussi automatiquement charger le garage lors de son instanciation.
 
@@ -83,12 +83,15 @@ Et pour que vous ayez une idée de ce que ce programme pourrait vous donner, voi
 
 Premier screenshot
 
+![Alt text](/sortie-sans.png?raw=true "Optional Title")
+
  
 
 Et celui-là après le deuxième lancement (vous constaterez que mon garage n’est plus vide à ce moment-là) :
 
 Second screenshot
 
+![Alt text](/sortie.png?raw=true "Optional Title")
  
 
 C'est à vous !
